@@ -20,15 +20,16 @@ The project simulates a real-world end-to-end data analytics workflow, starting 
 
 ## 🛠️ Tech Stack
 
- Technology              Purpose                                     
-
-  Python                 Data cleaning and exploratory data analysis 
-  Pandas                 Data manipulation and transformation        
-  NumPy                  Numerical operations                        
-  Matplotlib & Seaborn   Data visualization                          
-  SQL Server             Business query analysis                     
-  Power BI               Dashboard creation and reporting            
-  Excel / CSV            Data source management                      
+| Technology | Purpose |
+|------------|---------|
+| Python | Data processing and model development |
+| Pandas | Data cleaning and transformation |
+| NumPy | Numerical computation |
+| Matplotlib & Seaborn | Data visualization |
+| Scikit-learn | Machine learning modeling |
+| XGBoost | Advanced ensemble learning |
+| Jupyter Notebook | Development environment |
+| CSV Dataset | Data source |
 
 ---
 
